@@ -13,3 +13,6 @@ Serves errors
 
     ruby app.rb
 
+## See errors
+
+    curl localhost:4567/400 -i # make a 400 error
